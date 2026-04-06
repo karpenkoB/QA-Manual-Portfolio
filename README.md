@@ -1,5 +1,5 @@
 # QA Manual Testing Portfolio
-Hi! I'm Bogdan, a Detail-oriented Junior QA Manual Engineer. 
+Hi! I'm Bogdan, a Detail-oriented QA Manual Engineer. 
 This repository contains my practical testing projects and artifacts.
 
 ## 🛍️ Project 1: E-commerce Platform Testing
